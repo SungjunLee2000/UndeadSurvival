@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Vampire Survival Multi/Assets/Scripts/LobbyScene/Class/ClassPanelUI.cs.meta
+guid: 9ce51d9351f8fd54ab20ab0effbbf23b
+========
+guid: 6a72c702db555c94ab7ab5a0ab7a970e
+>>>>>>>> upstream/feature/Multi:Vampire Survival Multi/Assets/Scripts/LobbyScene/Class/ClassPanelManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
